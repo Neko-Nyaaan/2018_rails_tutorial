@@ -1,0 +1,3 @@
+[submodule "toy_app"]
+	path = toy_app
+	url = git@github.com:cactas-qq/toy_app.git
