@@ -1,3 +1,6 @@
 [submodule "toy_app"]
 	path = toy_app
 	url = git@github.com:cactas-qq/toy_app.git
+[submodule "sample_app"]
+	path = sample_app
+	url = git@github.com:cactas-qq/sample_app.git
